@@ -29,8 +29,6 @@ jupyter notebook CNN_fashion_mnist.ipynb
 
 ## Results
 The model has an accuracy of 92.87% in training dataset, 92.17% in validation dataset and 92.14% in test.
-![TRAINING AND VALIDATION](LINK)
-![TEST]
-
-## Sample Results
-![Result 1](image_0.png)
+![TRAINING AND VALIDATION](https://github.com/alexossa1/cnn_tensorflow_practice/blob/main/cnn_fashion_mnist/assets/train_val_accuracy.png)
+![TEST](https://github.com/alexossa1/cnn_tensorflow_practice/blob/main/cnn_fashion_mnist/assets/test_accuracy.png)
+![LOSS PLOT](https://github.com/alexossa1/cnn_tensorflow_practice/blob/main/cnn_fashion_mnist/assets/accuracy.png)
