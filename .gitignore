@@ -1,0 +1,8 @@
+#
+
+cnn_dogs_cats/bin
+cnn_dogs_cats/include
+cnn_dogs_cats/lib
+cnn_dogs_cats/lib64
+cnn_dogs_cats/pyvenv.cfg
+cnn_dogs_cats/share
