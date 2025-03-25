@@ -29,7 +29,7 @@ jupyter notebook dogs_vs_cats.ipynb
 
 ## Results
 The model has an accuracy of 88.24% in training dataset, 90.26% in validation dataset.
-![TRAINING AND VALIDATION](LINK)
+![TRAINING AND VALIDATION](https://github.com/user-attachments/assets/ca5e1d49-935d-45a1-a30e-cbeb28b231b1)
 
 ## Sample Results
-![Result 1](image_0.png)
+![Result 1](https://github.com/alexossa1/cnn_tensorflow_practice/blob/dogs_vs_cats/cnn_dogs_cats/assets/accuracy.png)
